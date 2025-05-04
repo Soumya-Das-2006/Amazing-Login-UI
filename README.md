@@ -1,25 +1,23 @@
 # Amazing Login UI
 
-This repository contains various login UI designs. Below are the different login forms available:
+This repository contains various styles of login forms designed using HTML, CSS, and JavaScript. The login forms include a simple design, an animated design, and a glassmorphism design, all of which are responsive and easy to implement.
 
-## Pages
+## Features
 
-### 1. [index.html](index.html)
-- This is the main page that displays the basic login form.
+- **Modern and Stylish**: Includes clean, modern design principles.
+- **Multiple Styles**: Simple, animated, and glassmorphism login forms.
+- **Responsive**: Fully responsive for mobile and desktop.
+- **Customizable**: Easy to modify for your own needs.
 
-### 2. [modern-login-form.html](modern-login-form.html)
-- This page displays a modern, sleek login form with clean aesthetics.
+## Live Demo
 
-### 3. [modern-login-signin-form.html](modern-login-signin-form.html)
-- A page with a stylish login form and 'Sign In' button.
+You can check out the live demo of the project on GitHub Pages here:  
+[Live Demo - Amazing Login UI](https://Soumya-Das-2006.github.io/Amazing-Login-UI/)
 
-### 4. [modern-login.html](modern-login.html)
-- Another variation of a modern login form, with a different style.
+## Installation
 
----
+To use this project locally, follow these steps:
 
-## How to Use
-
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/Soumya-Das-2006/Amazing-Login-UI.git
+1. Clone the repository:
+```bash
+git clone https://github.com/Soumya-Das-2006/Amazing-Login-UI.git
